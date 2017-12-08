@@ -43,10 +43,10 @@ hr.star-light:after {
   background-color: #d34747; }
 
 hr.star-dark {
-  border-color: #2C3E50; }
+  border-color: #2b7e7e; }
 
 hr.star-dark:after {
-  color: #2C3E50;
+  color: #2b7e7e;
   background-color: white; }
 
 section {
@@ -244,7 +244,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #2b7e7e;
   color: #fff; }
 
 .copyright {
@@ -269,7 +269,7 @@ a {
   color: #d34747 !important; }
 
 .text-secondary {
-  color: #2C3E50 !important; }
+  color: #2b7e7e !important; }
 
 .btn-primary {
   background-color: #d34747;
@@ -279,8 +279,8 @@ a {
     border-color: #128f76; }
 
 .btn-secondary {
-  background-color: #2C3E50;
-  border-color: #2C3E50; }
+  background-color: #2b7e7e;
+  border-color: #2b7e7e; }
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
     background-color: #1a252f;
     border-color: #1a252f; }
