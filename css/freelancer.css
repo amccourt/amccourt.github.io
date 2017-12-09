@@ -286,11 +286,11 @@ a {
     border-color: #1a252f; }
 
 #email-link {
-  text-decoration: none;
-  color: white;
+  text-decoration: none !important;
+  color: white !important;
 }
 
 #email-link:hover {
-  text-decoration: none;
-  color: #2b7e7e;
+  text-decoration: none !important;
+  color: #2b7e7e !important;
 }
